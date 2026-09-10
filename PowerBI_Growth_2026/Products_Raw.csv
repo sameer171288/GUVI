@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Subcategory,List_Price,Standard_Cost
+P001,Laptop Pro 14,Electronics,Computing,85000,62000
+P002,Laptop Air 13,Electronics,Computing,68000,49000
+P003,Business Monitor 27,Electronics,Displays,26000,18000
+P004,Wireless Keyboard,Accessories,Peripherals,4500,2600
+P005,Wireless Mouse,accessories,Peripherals,2200,1200
+P006,Office Chair,Furniture,Office,14500,9000
+P007,Standing Desk,Furniture,Office,32000,21000
+P008,Noise Cancelling Headset,Accessories,Audio,12500,7600
+P009,Web Camera,Electronics,Accessories,6500,3900
+P010,Tablet 11,Electronics,Mobile,42000,30000
+P011,Smartphone X,Electronics,Mobile,56000,41000
+P012,Smartphone Lite,Electronics,Mobile ,28000,19500
+P013,Printer Laser,Electronics,Printing,18500,12000
+P014,Printer Inkjet,Electronics,Printing,10500,6800
+P015,SSD 1TB,Components,Storage,9000,5600
+P016,External HDD 2TB,Components,Storage,7200,4500
+P017,USB-C Hub,Accessories,Peripherals,3800,2100
+P018,Docking Station,Accessories,Peripherals,14500,9000
+P019,Office Desk,Furniture,Office,22000,14000
+P020,Bookshelf,Furniture,Office,9800,5900
+P021,Conference Speaker,Electronics,Audio,18500,11200
+P022,Projector,Electronics,Presentation,48000,33000
+P023,UPS 1KVA,Electronics,Power,"12,500",7800
+P024,Router Pro,Networking,Network,9500,5900
+P025,WiFi Access Point,Networking,Network,7800,4800
+P026,Network Switch 24P,Networking,Network,15500,9800
+P027,Tablet Keyboard,Accessories,Mobile,5200,3000
+P028,Power Bank,Accessories,Mobile,3200,1900
+P029,Monitor Stand,Furniture,Office,4200,2500
+P030,Ergonomic Footrest,Furniture,Office,2800,1600
