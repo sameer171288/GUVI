@@ -1,0 +1,11 @@
+Store_ID,Store_Name,City,Region
+S001,Mumbai Central,Mumbai,West
+S002,Delhi South,Delhi,North
+S003,Bengaluru Central,Bengaluru,South
+S004,Chennai Anna Nagar,Chennai,South
+S005,Hyderabad Central,Hyderabad,South
+S006,Pune West,Pune,West
+S007,Kolkata Central,Kolkata,East
+S008,Ahmedabad East,Ahmedabad,West
+S009,Jaipur Central,Jaipur,North
+S010,Gurgaon Cyber Hub,Gurugram,North
